@@ -1,0 +1,19 @@
+# Compiled object files
+*.o
+
+# Executables
+*.out
+*.exe
+
+# Debug files
+*.gdb
+*.dSYM/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS/editor files
+.DS_Store
+Thumbs.db
